@@ -1,0 +1,13 @@
+C:\Users\dsall\Desktop\Coding Lab-Project\bin\Debug\netcoreapp3.1\Coding Lab-Project.exe
+C:\Users\dsall\Desktop\Coding Lab-Project\bin\Debug\netcoreapp3.1\Coding Lab-Project.deps.json
+C:\Users\dsall\Desktop\Coding Lab-Project\bin\Debug\netcoreapp3.1\Coding Lab-Project.runtimeconfig.json
+C:\Users\dsall\Desktop\Coding Lab-Project\bin\Debug\netcoreapp3.1\Coding Lab-Project.runtimeconfig.dev.json
+C:\Users\dsall\Desktop\Coding Lab-Project\bin\Debug\netcoreapp3.1\Coding Lab-Project.dll
+C:\Users\dsall\Desktop\Coding Lab-Project\bin\Debug\netcoreapp3.1\Coding Lab-Project.pdb
+C:\Users\dsall\Desktop\Coding Lab-Project\obj\Debug\netcoreapp3.1\Coding Lab-Project.csprojAssemblyReference.cache
+C:\Users\dsall\Desktop\Coding Lab-Project\obj\Debug\netcoreapp3.1\Coding Lab-Project.AssemblyInfoInputs.cache
+C:\Users\dsall\Desktop\Coding Lab-Project\obj\Debug\netcoreapp3.1\Coding Lab-Project.AssemblyInfo.cs
+C:\Users\dsall\Desktop\Coding Lab-Project\obj\Debug\netcoreapp3.1\Coding Lab-Project.csproj.CoreCompileInputs.cache
+C:\Users\dsall\Desktop\Coding Lab-Project\obj\Debug\netcoreapp3.1\Coding Lab-Project.dll
+C:\Users\dsall\Desktop\Coding Lab-Project\obj\Debug\netcoreapp3.1\Coding Lab-Project.pdb
+C:\Users\dsall\Desktop\Coding Lab-Project\obj\Debug\netcoreapp3.1\Coding Lab-Project.genruntimeconfig.cache
